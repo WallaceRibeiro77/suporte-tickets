@@ -1,0 +1,12 @@
+{
+  "name": "suporte-tickets",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Wallace Ribeiro",
+  "license": "ISC",
+  "description": "Api de gerenciamento de tickets de suporte"
+}
