@@ -6,4 +6,4 @@ export function updateStatus({ request, response, database }){
     database.update("tickets", id, { status : "closed", solution })
     
     return response.end()
-}
+} 
